@@ -61,7 +61,7 @@ Error generating stack: `+a.message+`
             `,children:"Upgrade YOUR skills for better future"}),v.jsxs("p",{className:`\r
             font-medium \r
             md:text-xl md:w-[300px]\r
-            lg:text-xl lg:wp-[527px]\r
+            lg:text-xl lg:w-[527px]\r
             `,children:["Lorem ipsum dolor sit amet consectetur. Erat in commodo in a. Sit interdum mi felis laoreet",v.jsx("br",{})," sagittis."]}),v.jsxs("div",{className:`\r
             grid grid-cols-2 mt-[20px] gap-[10px]\r
             md:flex md:mt-[31px] md:gap-[20px]\r
@@ -70,9 +70,9 @@ Error generating stack: `+a.message+`
               w-full font-semibold  h-11 bg-[#FF00C7] rounded-xl hover:bg-white hover:text-black transition-colors \r
               md:w-44\r
               `,children:"Check Courses"}),v.jsx("button",{className:`\r
-              w-full font-medium h-11 rounded-xl border border-whitehover:bg-white hover:bg-white hover:text-black transition-colors\r
+              w-full font-medium h-11 rounded-xl borde hover:bg-white hover:text-black transition-colors\r
               md:w-34\r
-              `,children:"Learn more"})]})]}),v.jsx("div",{children:v.jsx("img",{className:"relative top-[-40px]",src:"/outschool/assets/sally_small.webp",alt:"sally"})})]})]}),Rm=()=>{const T=[{imgPath:"/outschool/assets/partnersLogo/microsoft.svg",alt:"MicrosoftLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/threehouse.svg",alt:"ThreehouseLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/amazon.svg",alt:"AmazonLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/slack.svg",alt:"SlackLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/Google.svg",alt:"GoogleLogo.svg"}];return v.jsxs("section",{className:`\r
+              `,children:"Learn more"})]})]}),v.jsx("div",{children:v.jsx("img",{className:"relative top-[-40px]",src:"/outschool/assets/sally_small.webp",alt:"sally",loading:"eager"})})]})]}),Rm=()=>{const T=[{imgPath:"/outschool/assets/partnersLogo/microsoft.svg",alt:"MicrosoftLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/threehouse.svg",alt:"ThreehouseLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/amazon.svg",alt:"AmazonLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/slack.svg",alt:"SlackLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/Google.svg",alt:"GoogleLogo.svg"}];return v.jsxs("section",{className:`\r
     flex flex-col items-center justify-center mt-16  w-full\r
     text-4xl text-zinc-700  font-semibold \r
     \r
