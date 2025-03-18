@@ -10,7 +10,7 @@ export const GirlsSection = () => {
       "
     >
       <div className="flex  justify-end items-center order-1 md:order-1">
-        <img src="src\assets\girls\girlOne.svg" alt="girlOne.svg" />
+        <img src="/outschool/assets/girls/girlOne.svg" alt="girlOne.svg" />
       </div>
       <div className="flex flex-col gap-[20px]  justify-start order-2 md:order-2">
         <h1
@@ -66,7 +66,7 @@ export const GirlsSection = () => {
         md:order-4
         "
       >
-        <img src="src\assets\girls\girlTwo.svg" alt="girlOne.svg" />
+        <img src="/outschool/assets/girls/girlTwo.svg" alt="girlOne.svg" />
       </div>
     </section>
   );

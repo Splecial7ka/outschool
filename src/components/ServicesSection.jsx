@@ -3,42 +3,42 @@ import React from "react";
 export const ServicesSection = () => {
   const serviceBlocks = [
     {
-      imgPath: "src/assets/serviceIcons/lifeTime.svg",
+      imgPath: "/outschool/assets/serviceIcons/lifeTime.svg",
       alt: "lifeTime.svg",
       titile: "Life Time Access",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet in porttitor in sit sem eu, nunc diam. Quis nisi, ",
     },
     {
-      imgPath: "src/assets/serviceIcons/onlineClasses.svg",
+      imgPath: "/outschool/assets/serviceIcons/onlineClasses.svg",
       alt: "onlineClasses.svg",
       titile: "Online Classes",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet in porttitor in sit sem eu, nunc diam. Quis nisi, ",
     },
     {
-      imgPath: "src/assets/serviceIcons/certificate.svg",
+      imgPath: "/outschool/assets/serviceIcons/certificate.svg",
       alt: "certificate.svg",
       titile: "Get Certificate",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet in porttitor in sit sem eu, nunc diam. Quis nisi, ",
     },
     {
-      imgPath: "src/assets/serviceIcons/trainers.svg",
+      imgPath: "/outschool/assets//serviceIcons/trainers.svg",
       alt: "trainers.svg",
       titile: "Expert Trainers",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet in porttitor in sit sem eu, nunc diam. Quis nisi, ",
     },
     {
-      imgPath: "src/assets/serviceIcons/result.svg",
+      imgPath: "/outschool/assets//serviceIcons/result.svg",
       alt: "result.svg",
       titile: "Great Result",
       content:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet in porttitor in sit sem eu, nunc diam. Quis nisi, ",
     },
     {
-      imgPath: "src/assets/serviceIcons/price.svg",
+      imgPath: "/outschool/assets//serviceIcons/price.svg",
       alt: "price.svg",
       titile: "Best Price",
       content:

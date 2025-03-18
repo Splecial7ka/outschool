@@ -3,7 +3,7 @@ import React from "react";
 export const NewsSection = () => {
   const newsCard = [
     {
-      imgPath: "src/assets/newsCards/web.svg",
+      imgPath: "/outschool/assets/newsCards/web.svg",
       alt: "web.svg",
       title: "Web Development",
       content: "Lorem ipsum dolor sit amet consectetur. sit amet ",
@@ -11,7 +11,7 @@ export const NewsSection = () => {
       link: "#",
     },
     {
-      imgPath: "src/assets/newsCards/buisiness.svg",
+      imgPath: "/outschool/assets/newsCards/buisiness.svg",
       alt: "buisiness.svg",
       title: "Business",
       content: "Lorem ipsum dolor sit amet consectetur. sit amet ",
@@ -19,7 +19,7 @@ export const NewsSection = () => {
       link: "#",
     },
     {
-      imgPath: "src/assets/newsCards/Technology.svg",
+      imgPath: "/outschool/assets/newsCards/Technology.svg",
       alt: "Technology.svg",
       title: "Technology",
       content: "Lorem ipsum dolor sit amet consectetur. sit amet ",
@@ -29,7 +29,7 @@ export const NewsSection = () => {
   ];
   return (
     <section className="mt-[120px] flex flex-col items-center pb-[-180px] ">
-      <div className="bg-[url('src/assets/newsBg.svg')]  h-[375px] bg-auto  w-full flex justify-center">
+      <div className="bg-[url('/outschool/assets/newsBg.svg')]  h-[375px] bg-auto  w-full flex justify-center">
         <h1
           className="
         text-black text-4xl text-center font-semibold max-w-[400px]  leading-[35px] mt-[30px]

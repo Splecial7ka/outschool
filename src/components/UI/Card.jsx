@@ -32,11 +32,11 @@ export const Card = ({ listOfCards = [] }) => {
             </p>
             <p className=" text-black text-xs mt-[5px]">{card.auth}</p>
             <div className="flex  mt-auto">
-              <img src="src\assets\star.svg" alt="star" />
-              <img src="src\assets\star.svg" alt="star" />
-              <img src="src\assets\star.svg" alt="star" />
-              <img src="src\assets\star.svg" alt="star" />
-              <img src="src\assets\star.svg" alt="star" />
+              <img src="/outschool/assets/star.svg" alt="star" />
+              <img src="/outschool/assets/star.svg" alt="star" />
+              <img src="/outschool/assets/star.svg" alt="star" />
+              <img src="/outschool/assets/star.svg" alt="star" />
+              <img src="/outschool/assets/star.svg" alt="star" />
               <span className="text-black text-xs font-semibold ">
                 {card.rate}
               </span>

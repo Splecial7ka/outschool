@@ -14,7 +14,7 @@ export const EmailSection = () => {
           lg:place-self-end
           
           "
-        src="src\assets\EmailImg.svg "
+        src="/outschool/assets/EmailImg.svg "
         alt=""
       />
       <div>

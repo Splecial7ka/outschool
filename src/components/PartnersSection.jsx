@@ -3,23 +3,23 @@ import React from "react";
 export const PartnersSection = () => {
   const logoListSng = [
     {
-      imgPath: "src/assets/partnersLogo/microsoft.svg",
+      imgPath: "/outschool/assets/partnersLogo/microsoft.svg",
       alt: "MicrosoftLogo.svg",
     },
     {
-      imgPath: "src/assets/partnersLogo/threehouse.svg",
+      imgPath: "/outschool/assets/partnersLogo/threehouse.svg",
       alt: "ThreehouseLogo.svg",
     },
     {
-      imgPath: "src/assets/partnersLogo/amazon.svg",
+      imgPath: "/outschool/assets/partnersLogo/amazon.svg",
       alt: "AmazonLogo.svg",
     },
     {
-      imgPath: "src/assets/partnersLogo/slack.svg",
+      imgPath: "/outschool/assets/partnersLogo/slack.svg",
       alt: "SlackLogo.svg",
     },
     {
-      imgPath: "src/assets/partnersLogo/Google.svg",
+      imgPath: "/outschool/assets/partnersLogo/Google.svg",
       alt: "GoogleLogo.svg",
     },
   ];

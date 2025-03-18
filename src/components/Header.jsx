@@ -16,13 +16,13 @@ export const Header = () => {
   const actionsList = [
     {
       link: "#",
-      imgPath: "src/assets/account.svg",
+      imgPath: "/outschool/assets/account.svg",
       alt: "accountImg",
       text: "Account",
     },
     {
       link: "#",
-      imgPath: "src/assets/card.svg",
+      imgPath: "/outschool/assets/card.svg",
       alt: "cardImg",
       text: "Card",
     },
@@ -30,7 +30,7 @@ export const Header = () => {
 
   return (
     <header className="mx-auto max-w-[1440px] flex justify-between pt-[35px] px-10 md:px-5">
-      <Logo link={"#"} imgPath="src/assets/logo.svg" />
+      <Logo link={"#"} imgPath="/outschool/assets/logo.svg" />
       <NavComponent links={navLinks} />
       <ActionList actions={actionsList} />
       <ToggleMenuBtn styles="z-50" visibleMenu={setMenuOpen} />

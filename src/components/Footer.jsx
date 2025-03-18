@@ -25,7 +25,11 @@ export const Footer = () => {
           "
         >
           <div className="gap-[15px] flex flex-col">
-            <img className="w-48" src="src/assets/logo.svg" alt="logoImg" />
+            <img
+              className="w-48"
+              src="/outschool/assets/logo.svg"
+              alt="logoImg"
+            />
             <p className="max-w-59 text-white text-sm font-normal">
               Lorem ipsum dolor sit amet consectetur. Magna integer enim vitae
               vulputate eu vitae tristique.
@@ -77,28 +81,28 @@ export const Footer = () => {
             <div className="w-8 h-8 bg-zinc-300 rounded-full flex items-center justify-center">
               <img
                 className="w-8 h-8"
-                src="src\assets\footer\facebook.svg"
+                src="/outschool/assets/footer/facebook.svg"
                 alt="facebook"
               />
             </div>
             <div className="w-8 h-8 bg-zinc-300 rounded-full flex items-center justify-center">
               <img
                 className="w-6 h-6"
-                src=" src\assets\footer\twitter.svg "
+                src="/outschool/assets/footer/twitter.svg "
                 alt="twitter"
               />
             </div>
             <div className="w-8 h-8 bg-zinc-300 rounded-full flex items-center justify-center">
               <img
                 className="w-6 h-6"
-                src="src\assets\footer\instagramm.svg"
+                src="/outschool/assets/footer/instagramm.svg"
                 alt="instagramm"
               />
             </div>
             <div className="w-8 h-8 bg-zinc-300 rounded-full flex items-center justify-center">
               <img
                 className="w-8 h-8"
-                src="src\assets\footer\youtube.svg"
+                src="/outschool/assets/footer/youtube.svg"
                 alt="youtube"
               />
             </div>
@@ -106,7 +110,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="flex mb-[50px] mt-[70px] gap-[2px] self-center ">
-        <img src="src\assets\footer\mark.svg" alt="mark.svg" />
+        <img src="/outschool/assets/footer/mark.svg" alt="mark.svg" />
         <p className="text-zinc-400 text-xs font-normal">
           2022 - @OUTSCHOOL all right deserved
         </p>

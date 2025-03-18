@@ -15,7 +15,7 @@ export const CardsSection = () => {
   ];
   const listOfCards = [
     {
-      imgPath: "src/assets/Cards/modernCard.svg",
+      imgPath: "/outschool/assets/Cards/modernCard.svg",
       alt: "Artificial_Intelligence_img",
       btnName: "Artificial Intelligence",
       content: "Modern Artificial Intelligence with zero coding",
@@ -24,7 +24,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/figma.svg",
+      imgPath: "/outschool/assets/Cards/figma.svg",
       alt: "Figma_UX/UI_Design_img",
       btnName: "UX/UI Designing",
       content: "Figma UX/UI Design essentials",
@@ -33,7 +33,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/complete.svg",
+      imgPath: "/outschool/assets/Cards/complete.svg",
       alt: "Complete_figma_mega_course:_img",
       btnName: "UX/UI Designing",
       content: "Complete figma mega course: UX/UI Design Beginner to Expert  ",
@@ -42,7 +42,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/fullstack.svg",
+      imgPath: "/outschool/assets/Cards/fullstack.svg",
       alt: "The_Complete_2022_Fullstack_Web_img",
       btnName: "Web Development",
       content: "The Complete 2022 Fullstack Web Developer course",
@@ -51,7 +51,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/javascript.svg",
+      imgPath: "/outschool/assets/Cards/javascript.svg",
       alt: "Javascript_for_beginners_img",
       btnName: "Web Development",
       content: "Javascript for beginners",
@@ -60,7 +60,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/digital.svg",
+      imgPath: "/outschool/assets/Cards/digital.svg",
       alt: "Digital_Advertising_and_Marketing_img",
       btnName: "Digital Marketing",
       content: "Digital Advertising and Marketing 101: The Complete...",
@@ -69,7 +69,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/mega.svg",
+      imgPath: "/outschool/assets/Cards/mega.svg",
       alt: "Mega_Digital_Marketing_course_img",
       btnName: "Digital Marketing",
       content: "Mega Digital Marketing course: 12 Courses in 1",
@@ -78,7 +78,7 @@ export const CardsSection = () => {
       price: "49.99",
     },
     {
-      imgPath: "src/assets/Cards/user.svg",
+      imgPath: "/outschool/assets/Cards/user.svg",
       alt: "User_Experience_Design_Essentialimg",
       btnName: "UX/UI Designing",
       content: "User Experience Design Essentials",

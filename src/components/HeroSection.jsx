@@ -57,7 +57,11 @@ export const HeroSection = ({ children }) => {
           </div>
         </div>
         <div>
-          <img className="mt-[-40px]" src="src\assets\sally.svg" alt="sally" />
+          <img
+            className="mt-[-40px]"
+            src="/outschool/assets/sally.svg"
+            alt="sally"
+          />
         </div>
       </section>
     </section>
