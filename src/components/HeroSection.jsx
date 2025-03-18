@@ -56,14 +56,7 @@ export const HeroSection = ({ children }) => {
             </button>
           </div>
         </div>
-        <div>
-          <img
-            className=""
-            src="/outschool/assets/sally_very_small.webp"
-            alt="sally"
-            rel="preload"
-          />
-        </div>
+        <div></div>
       </section>
     </section>
   );
