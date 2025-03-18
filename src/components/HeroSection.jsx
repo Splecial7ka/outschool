@@ -1,8 +1,8 @@
-import React from "react";
+import React, { memo } from "react";
 
-export const HeroSection = ({ children }) => {
+export const HeroSection = memo(({ children }) => {
   return (
-    <section className="bg-gradient-to-r from-violet-800 to-pink-400 rounded-br-[200px] pb-[112px]">
+    <section className="bg-gradient-to-r from-violet-800 to-pink-400 rounded-br-[200px] pb-[112px] ">
       {children}
       <section
         className="
@@ -61,10 +61,9 @@ export const HeroSection = ({ children }) => {
             className=""
             src="/outschool/assets/sally_small.webp"
             alt="sally"
-            rel="preload"
           />
         </div>
       </section>
     </section>
   );
-};
+});
