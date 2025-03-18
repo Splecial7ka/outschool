@@ -58,12 +58,8 @@ export const HeroSection = ({ children }) => {
         </div>
         <div>
           <img
-            className="mt-[-40px]"
+            className="relative top-[-40px]"
             src="/outschool/assets/sally_small.webp"
-            srcSet="
-            
-            
-            "
             alt="sally"
           />
         </div>
