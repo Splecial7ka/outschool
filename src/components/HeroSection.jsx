@@ -59,7 +59,7 @@ export const HeroSection = ({ children }) => {
         <div>
           <img
             className=""
-            src="/outschool/assets/sally_small.webp"
+            src="/outschool/assets/sally_very_small.webp"
             alt="sally"
             rel="preload"
           />
