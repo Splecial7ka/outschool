@@ -53,7 +53,10 @@ export const NewsSection = () => {
               <img src={card.imgPath} alt={card.alt} />
               <div className="flex flex-col py-[16px] px-[20px]">
                 <div className="flex gap-[5px]">
-                  <img src="src\assets\newsCards\icon.svg" alt="iconSvgImg" />
+                  <img
+                    src="/outschool/assets/newsCards/icon.svg"
+                    alt="iconSvgImg"
+                  />
                   <p className="text-neutral-500 text-sm font-medium">
                     {card.title}
                   </p>
@@ -64,7 +67,7 @@ export const NewsSection = () => {
                 <div className="flex justify-between mt-[20px] ">
                   <div className="flex gap-[5px]">
                     <img
-                      src="src\assets\newsCards\calendar.svg"
+                      src="/outschool/assets/newsCards/calendar.svg"
                       alt="calendarImg"
                     />
                     <p className=" text-zinc-500 text-sm font-medium font-['Montserrat']">
@@ -84,7 +87,7 @@ export const NewsSection = () => {
                       "
                   >
                     Read more
-                    <img src="src\assets\newsCards\arrow.svg" alt="" />
+                    <img src="/outschool/assets/newsCards/arrow.svg" alt="" />
                   </a>
                 </div>
               </div>

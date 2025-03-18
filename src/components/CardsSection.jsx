@@ -125,7 +125,11 @@ export const CardsSection = () => {
           <p className="text-violet-800 text-base font-medium self-center">
             Show more
           </p>
-          <img className="h-6 w-6" src="src\assets\arrow.svg" alt="arrow.svg" />
+          <img
+            className="h-6 w-6"
+            src="/outschool/assets/arrow.svg"
+            alt="arrow.svg"
+          />
         </div>
       </div>
     </section>
