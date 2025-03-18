@@ -24,7 +24,7 @@ export const HeroSection = ({ children }) => {
             className="
             font-medium 
             md:text-xl md:w-[300px]
-            lg:text-xl lg:wp-[527px]
+            lg:text-xl lg:w-[527px]
             "
           >
             Lorem ipsum dolor sit amet consectetur. Erat in commodo in a. Sit
@@ -48,7 +48,7 @@ export const HeroSection = ({ children }) => {
             </button>
             <button
               className="
-              w-full font-medium h-11 rounded-xl border border-whitehover:bg-white hover:bg-white hover:text-black transition-colors
+              w-full font-medium h-11 rounded-xl borde hover:bg-white hover:text-black transition-colors
               md:w-34
               "
             >
@@ -61,6 +61,7 @@ export const HeroSection = ({ children }) => {
             className="relative top-[-40px]"
             src="/outschool/assets/sally_small.webp"
             alt="sally"
+            loading="eager"
           />
         </div>
       </section>
