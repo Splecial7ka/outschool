@@ -61,7 +61,7 @@ export const HeroSection = ({ children }) => {
             className=""
             src="/outschool/assets/sally_small.webp"
             alt="sally"
-            loading="eager"
+            rel="preload"
           />
         </div>
       </section>
