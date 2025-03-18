@@ -72,7 +72,7 @@ Error generating stack: `+a.message+`
               `,children:"Check Courses"}),v.jsx("button",{className:`\r
               w-full font-medium h-11 rounded-xl borde hover:bg-white hover:text-black transition-colors\r
               md:w-34\r
-              `,children:"Learn more"})]})]}),v.jsx("div",{children:v.jsx("img",{className:"",src:"/outschool/assets/sally_small.webp",alt:"sally",loading:"eager"})})]})]}),R0=()=>{const T=[{imgPath:"/outschool/assets/partnersLogo/microsoft.svg",alt:"MicrosoftLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/threehouse.svg",alt:"ThreehouseLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/amazon.svg",alt:"AmazonLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/slack.svg",alt:"SlackLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/Google.svg",alt:"GoogleLogo.svg"}];return v.jsxs("section",{className:`\r
+              `,children:"Learn more"})]})]}),v.jsx("div",{children:v.jsx("img",{className:"",src:"/outschool/assets/sally_small.webp",alt:"sally",rel:"preload"})})]})]}),R0=()=>{const T=[{imgPath:"/outschool/assets/partnersLogo/microsoft.svg",alt:"MicrosoftLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/threehouse.svg",alt:"ThreehouseLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/amazon.svg",alt:"AmazonLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/slack.svg",alt:"SlackLogo.svg"},{imgPath:"/outschool/assets/partnersLogo/Google.svg",alt:"GoogleLogo.svg"}];return v.jsxs("section",{className:`\r
     flex flex-col items-center justify-center mt-16  w-full\r
     text-4xl text-zinc-700  font-semibold \r
     \r
